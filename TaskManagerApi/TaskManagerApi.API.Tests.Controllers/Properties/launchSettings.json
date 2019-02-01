@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TaskManagerApi.API.Tests.Controllers": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TEST_ENVIRONMENT": "Developement"
+      }
+    }
+  }
+}
